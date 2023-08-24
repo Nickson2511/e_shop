@@ -1,0 +1,38 @@
+/* Footer.css */
+
+/* Style the footer container */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  /* Center the social icons and text */
+  .text-center {
+    text-align: center;
+  }
+  
+  /* Style the social media icons */
+  .social-icons {
+    margin-top: 20px; /* Increase top margin for better spacing */
+    display: flex;
+    justify-content: center; /* Center the icons horizontally */
+    align-items: center; /* Center the icons vertically */
+  }
+  
+  .social-icons a {
+    color: #fff;
+    font-size: 24px;
+    margin: 0 10px; /* Adjust horizontal spacing */
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #00aced; /* Change color on hover */
+  }
+  
+  /* Style the copyright text */
+  p {
+    margin: 20px 0 0; /* Increase top margin for better spacing */
+  }
+  
